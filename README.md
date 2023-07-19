@@ -31,7 +31,7 @@
 ✔ Callme: ***Riyaz*** <br>
 ✔ I’m currently working on Metrics collections for SANG project<br>
 ✔ I’m looking to collaborate with any **Business teams and other AIML Engieers within Lilly**<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* <br><br><br><br>
+
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
